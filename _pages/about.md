@@ -87,6 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
+
 ## Other publications
 
 * [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC), Ran Yan, **Xiwang Xiang**, Weiguang Cai, Minda Ma, **Science of The Total Environment 2022**
