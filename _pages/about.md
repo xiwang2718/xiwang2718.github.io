@@ -33,6 +33,7 @@ I graduated from School of Mechanical Science and Engineering,  Huazhong Univers
 - *2022.09*: &nbsp;🎉🎉 New website is launched!. 
 - 2022.08: 🎉🎉Three paper was accpeted by RCR, STOTEN and Buildings
 - *2022.06*: &nbsp;🎉🎉 One paper about [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)  was accpeted by *Applied Energy*
+- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
 
 # 📝 Publications 
 
