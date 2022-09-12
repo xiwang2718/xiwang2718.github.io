@@ -52,23 +52,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Operational carbon change in commercial buildings under the carbon neutral goal: a LASSO–WOA approach](https://www.mdpi.com/2075-5309/12/1/54)
-
-**Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-</div>
-</div>
-
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2022</div><img src='images/paper2-Buildings2022-PyLMDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Python-LMDI: A Tool for Index Decomposition Analysis of Building Carbon Emissions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&citation_for_view=hvuvSLkAAAAJ:dfsIfKJdRG4C)
@@ -81,6 +64,26 @@ My research interest includes neural machine translation and computer vision. I 
 
 </div>
 </div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2022</div><img src='images/paper3-Buildings-LASSO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Operational carbon change in commercial buildings under the carbon neutral goal: a LASSO–WOA approach](https://www.mdpi.com/2075-5309/12/1/54)
+
+
+**Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+</div>
+</div>
+
+
 
 
 
