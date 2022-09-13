@@ -1,5 +1,5 @@
 ---
-permalink: /
+logopermalink: /
 title: ""
 excerpt: ""
 author_profile: true
@@ -19,9 +19,9 @@ redirect_from:
 
 
 
-I am currently a Postgraduate at Chongqing University, advised by Prof. Zhili Ma (马智利), and [Minda Ma (马敏达)](https://www.dess.tsinghua.edu.cn/info/1093/3126.htm) from [Berkeley Lab (LBNL)](https://www.lbl.gov/)<img src='./images/logo-LBNL.png' style='width: 6em;'>, I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST closely. 
+I am currently a Postgraduate at Chongqing University, advised by Prof. Zhili Ma (马智利), and [Minda Ma (马敏达)](https://www.dess.tsinghua.edu.cn/info/1093/3126.htm) from [Berkeley Lab (LBNL)](https://www.lbl.gov/)<img src='./images/logo-LBNL.png' style='width: 4em;'>, I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST closely. 
 
-My research interest includes building energy and building decarbonization. I have published 12 papers at the top international journal <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes building energy and building decarbonization. I have published 12 papers  <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>at the top international journal. Please feel free to contact me if you are interested in my research.
 
 
 
@@ -57,7 +57,6 @@ My research interest includes building energy and building decarbonization. I ha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2022</div><img src='images/paper2-Buildings2022-PyLMDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Python-LMDI: A Tool for Index Decomposition Analysis of Building Carbon Emissions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&citation_for_view=hvuvSLkAAAAJ:dfsIfKJdRG4C)
-
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*, Weiguang Cai
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
@@ -117,8 +116,8 @@ My research interest includes building energy and building decarbonization. I ha
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2021.09 - Now*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Management Science and Real Estate, Chongqing University, Chongqing China.
-- *2017.09 - 2021.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of mathematics and physics, Southwest University of Science and Technology, Mianyang China.
+- *2021.09 - Now*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/logo-CQU.png" width="20pt"></a> School of Management Science and Real Estate, Chongqing University, Chongqing China.
+- *2017.09 - 2021.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/logo-SWUST.png" width="20pt"></a> School of mathematics and physics, Southwest University of Science and Technology, Mianyang China.
 
 # 💬 Invited Talks
 - *2021.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
