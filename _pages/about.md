@@ -19,9 +19,9 @@ redirect_from:
 
 
 
-I am currently a Master student at School of Management Science and Real Estate, Chongqing University, advised by Prof. Zhili Ma (马智利) and [Minda Ma (马敏达)](https://www.dess.tsinghua.edu.cn/info/1093/3126.htm) from Berkeley Lab (LBNL) , I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST.
+I am currently a Postgraduate at Chongqing University, advised by Prof. Zhili Ma (马智利), and [Minda Ma (马敏达)](https://www.dess.tsinghua.edu.cn/info/1093/3126.htm) from [Berkeley Lab (LBNL)](https://www.lbl.gov/)<img src='./images/logo-LBNL.png' style='width: 6em;'>, I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST closely. 
 
-My research interest includes neural machine translation and computer vision. I have published 12 papers at the top international journal <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes building energy and building decarbonization. I have published 12 papers at the top international journal <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 
