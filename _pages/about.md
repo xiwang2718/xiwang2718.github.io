@@ -58,8 +58,7 @@ My research interest includes building energy and building decarbonization. I ha
 <div class='paper-box-text' markdown="1">
 [Python-LMDI: A Tool for Index Decomposition Analysis of Building Carbon Emissions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&citation_for_view=hvuvSLkAAAAJ:dfsIfKJdRG4C)
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*, Weiguang Cai
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong></a>  
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
