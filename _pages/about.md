@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am currently a Postgraduate at Chongqing University, advised by Prof. Zhili Ma (马智利), and [Minda Ma (马敏达)](https://www.dess.tsinghua.edu.cn/info/1093/3126.htm) from [Berkeley Lab(LBNL)](https://www.lbl.gov/)<img src='./images/logo-LBNL.png' style='width: 4em;'>, I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST closely. 
+I am currently a Postgraduate at Chongqing University, advised by Prof. Zhili Ma (马智利), and [Minda Ma (马敏达)](https://www.dess.tsinghua.edu.cn/info/1093/3126.htm) from [Berkeley Lab <img src='./images/logo-LBNL.png' style='width: 4em;'> (LBNL)](https://www.lbl.gov/), I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST closely. 
 
 My research interest includes building energy and building decarbonization. I have published 12 papers  <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>at the top international journal. Please feel free to contact me if you are interested in my research.
 
@@ -27,7 +27,7 @@ My research interest includes building energy and building decarbonization. I ha
 
 # 🔥 News 
 - *2022.09*: &nbsp;🎉🎉 New website is launched!. 
-- 2022.08: 🎉🎉 Three paper was accpeted by RCR, STOTEN and Buildings
+- 2022.08: 🎉🎉 Three paper was accpeted by *Resources, Conservation and Recycling*, *Science of The Total Environment* and *Buildings* respectively
   - [Potential to decarbonize the commercial building operation of the top two emitters by 2060](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:bFI3QPDXJZMC) *Resources, Conservation and Recycling*
   - [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC) *Science of The Total Environment*
   - [Carbon Mitigation in the Operation of Chinese Residential Buildings: An Empirical Analysis at the Provincial Scale](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:EUQCXRtRnyEC) *Buildings*
@@ -44,9 +44,9 @@ My research interest includes building energy and building decarbonization. I ha
 
 **Xiwang Xiang**, Minda Ma*, Xin Ma, Liming Chen, Weiguang Cai, Wei Feng, Zhili Ma
 
-[**[Project]**]() | [**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383) | [**[PDF]**]()
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)|[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)|[**[PDF]**]()
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- To seek the best practical path to decarbonize commercial building operations, this study assesses the decarbonization progress of commercial building operations in 16 countries over the last two decades considering socioeconomic, technical, climatic and end-use factors through the decomposing structural decomposition method.
 
 </div>
 </div>
@@ -56,8 +56,10 @@ My research interest includes building energy and building decarbonization. I ha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2022</div><img src='images/paper2-Buildings2022-PyLMDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Python-LMDI: A Tool for Index Decomposition Analysis of Building Carbon Emissions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&citation_for_view=hvuvSLkAAAAJ:dfsIfKJdRG4C)
+
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*, Weiguang Cai
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>| [**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383) | [**[PDF]**]()
+
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)|[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)|[**[PDF]**]()
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -75,7 +77,7 @@ My research interest includes building energy and building decarbonization. I ha
 
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>| [**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383) | [**[PDF]**]()
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)|[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)|[**[PDF]**]()
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
