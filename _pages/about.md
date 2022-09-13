@@ -17,23 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
 
+I am currently a Master student at School of Management Science and Real Estate, Chongqing University, advised by Prof. Zhili Ma (马智利) and [Minda Ma (马敏达)](https://www.dess.tsinghua.edu.cn/info/1093/3126.htm) from Berkeley Lab (LBNL) , I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST.
 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> )
-
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published more than 15 papers 
- <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes neural machine translation and computer vision. I have published 12 papers at the top international journal <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 
 # 🔥 News 
 - *2022.09*: &nbsp;🎉🎉 New website is launched!. 
-- 2022.08: 🎉🎉Three paper was accpeted by RCR, STOTEN and Buildings
+- 2022.08: 🎉🎉 Three paper was accpeted by RCR, STOTEN and Buildings
+  - [Potential to decarbonize the commercial building operation of the top two emitters by 2060](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:bFI3QPDXJZMC) *Resources, Conservation and Recycling*
+  - [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC) *Science of The Total Environment*
+  - [Carbon Mitigation in the Operation of Chinese Residential Buildings: An Empirical Analysis at the Provincial Scale](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:EUQCXRtRnyEC) *Buildings*
 - *2022.06*: &nbsp;🎉🎉 One paper about [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)  was accpeted by *Applied Energy*
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2022.02*: We release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!  【我们发布了一个  】
 
 # 📝 Publications 
 
@@ -94,35 +93,39 @@ I graduated from School of Mechanical Science and Engineering,  Huazhong Univers
 
 ## Other publications
 
+* [Research and application of novel Euler polynomial-driven grey model for short-term PM10 forecasting](https://www.emerald.com/insight/content/doi/10.1108/GS-02-2020-0023/full/html),  **Xiwang Xiang**, Xin Ma, Minda Ma, Wenqing Wu, Lang Yu, **Grey Systems: Theory and Application** 2021
+* [A novel hyperbolic time-delayed grey model with Grasshopper Optimization Algorithm and its applications](https://www.sciencedirect.com/science/article/pii/S2090447920301726), **Xiwang Xiang**, Xin Ma, Yizhu Fang, Wenqing Wu, Gaoxun Zhang, **Ain Shams Engineering Journal** 2021
+
 * [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC), Ran Yan, **Xiwang Xiang**, Weiguang Cai, Minda Ma, **Science of The Total Environment 2022**
+
 * [Potential to decarbonize the commercial building operation of the top two emitters by 2060](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:bFI3QPDXJZMC), Shufan Zhang, Minda Ma, **Xiwang Xiang**, Weiguang Cai, Wei Feng, Zhili Ma, **Resources, Conservation and Recycling 2022**
+
 * [Carbon Mitigation in the Operation of Chinese Residential Buildings: An Empirical Analysis at the Provincial Scale](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:EUQCXRtRnyEC), Minxia Chen, Jifeng Lei, **Xiwang Xiang**, Minda Ma, **Buildings 2022**
+
 * [Carbon Peak and Carbon Neutrality in the Building Sector: A Bibliometric Review](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:cFHS6HbyZ2cC), Zhaohui Sun, Zhili Ma, Minda Ma, Weiguang Cai, **Xiwang Xiang**, Shufan Zhang, Minxia Chen, Liming Chen, **Buildings 2022**
+
 * [Carbon reduction in commercial building operations: A provincial retrospection in China](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:LkGwnXOMwfcC), Kai Li, Minda Ma, **Xiwang Xiang**, Wei Feng, Zhili Ma, Weiguang Cai, Xin Ma, **Applied Energy 2022**
+
 * [Carbon neutral roadmap of commercial building operations by mid-century: Lessons from China](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_FxGoFyzp5QC) , Shufan Zhang, **Xiwang Xiang**, Zhili Ma, Minda Ma, Chenchen Zou, **Buildings 2021**
+
 * [Application of a novel time-delayed power-driven grey model to forecast photovoltaic power generation in the Asia-Pacific region](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:W7OEmFMy1HYC), Lang Yu, Xin Ma, Wenqing Wu, **Xiwang Xiang**, Yong Wang, Bo Zeng, **Sustainable Energy Technologies and Assessments 2021**
 
-
-
-
-
-
-
-
-
-
+  
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - Now*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Management Science and Real Estate, Chongqing University, Chongqing China.
+- *2017.09 - 2021.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of mathematics and physics, Southwest University of Science and Technology, Mianyang China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2022.04*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+  
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
