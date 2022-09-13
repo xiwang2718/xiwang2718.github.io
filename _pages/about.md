@@ -116,8 +116,8 @@ My research interest includes building energy and building decarbonization. I ha
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2021.09 - Now*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/logo-CQU.png" width="20pt"></a> School of Management Science and Real Estate, Chongqing University, Chongqing China.
-- *2017.09 - 2021.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/logo-SWUST.png" width="20pt"></a> School of mathematics and physics, Southwest University of Science and Technology, Mianyang China.
+- *2021.09 - Now*, School of Management Science and Real Estate, Chongqing University, Chongqing China.
+- *2017.09 - 2021.06*, School of mathematics and physics, Southwest University of Science and Technology, Mianyang China.
 
 # 💬 Invited Talks
 - *2021.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
