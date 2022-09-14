@@ -44,7 +44,7 @@ My research interest includes building energy and building decarbonization. I ha
 
 **Xiwang Xiang**, Minda Ma*, Xin Ma, Liming Chen, Weiguang Cai, Wei Feng, Zhili Ma
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)|[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)|[**[PDF]**]()
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)[**[PDF]**]()
 
 - To seek the best practical path to decarbonize commercial building operations, this study assesses the decarbonization progress of commercial building operations in 16 countries over the last two decades considering socioeconomic, technical, climatic and end-use factors through the decomposing structural decomposition method.
 
@@ -59,7 +59,7 @@ My research interest includes building energy and building decarbonization. I ha
 
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*, Weiguang Cai
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)|[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)|[**[PDF]**]()
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)[**[PDF]**]()
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -77,7 +77,7 @@ My research interest includes building energy and building decarbonization. I ha
 
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)|[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)|[**[PDF]**]()
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)[**[PDF]**]()
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
