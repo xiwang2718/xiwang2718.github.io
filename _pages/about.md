@@ -119,17 +119,8 @@ My research interest includes building energy and building decarbonization. I ha
 - *2021.09 - Now*, School of Management Science and Real Estate, Chongqing University, Chongqing China.
 - *2017.09 - 2021.06*, School of mathematics and physics, Southwest University of Science and Technology, Mianyang China.
 
-# 💬 Invited Talks
-- *2021.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-- *2022.04*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-  
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!--这些是注释文本，不会显示-->
 
 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=58kxn7f9nbm&amp;s=220&amp;m=0&amp;v=false&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
-
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5bhpcu9diem&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;crh1=ffffff&amp;sx=0" async="async"></script>
