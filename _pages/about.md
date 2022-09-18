@@ -32,7 +32,7 @@ My research interest includes building energy and building decarbonization. I ha
   - [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC) *Science of The Total Environment*
   - [Carbon Mitigation in the Operation of Chinese Residential Buildings: An Empirical Analysis at the Provincial Scale](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:EUQCXRtRnyEC) *Buildings*
 - *2022.06*: &nbsp;🎉🎉 One paper about [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)  was accpeted by *Applied Energy*
-- *2022.02*: We release a new open-source tool [Python-LMDI<img src='./images/PyLMDI_logo.png' style='width: 6em;'>](https://github.com/xiwang2718/PyLMDI) for index decomposition analysis of building carbon emissions. Welcome to STAR and FORK! 
+- *2022.02*: We release a new open-source tool [Python-LMDI<img src='./images/PyLMDI_logo.png' style='width: 6em;'>](https://github.com/xiwang2718/PyLMDI) \|![](https://img.shields.io/github/stars/xiwang2718/PyLMDI?style=social&label=Code+Stars) for index decomposition analysis of building carbon emissions. Welcome to STAR and FORK! 
 
 # 📝 Publications 
 
