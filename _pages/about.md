@@ -112,8 +112,7 @@ My research interest includes building energy and building decarbonization. I ha
   
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06* Outstanding Graduates of Sichuan Province (Top 1%)
 
 # 📖 Educations
 - *2021.09 - Now*, School of Management Science and Real Estate, Chongqing University, Chongqing China.
