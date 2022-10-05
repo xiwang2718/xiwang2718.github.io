@@ -44,9 +44,9 @@ My research interest includes building energy and building decarbonization. I ha
 
 **Xiwang Xiang**, Minda Ma*, Xin Ma, Liming Chen, Weiguang Cai, Wei Feng, Zhili Ma
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)[**[PDF]**]()
 
-[[Project]](https://dx.doi.org/10.3390/s22093587) [[HTML]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
+[[Project]](https://www.researchgate.net/publication/361203148_Historical_decarbonization_of_global_commercial_building_operations_in_the_21st_century) [[HTML]](https://www.sciencedirect.com/science/article/pii/S0306261922007383?via%3Dihub) [[PDF]](/Files/APEN-2022.pdf)
 
 - To seek the best practical path to decarbonize commercial building operations, this study assesses the decarbonization progress of commercial building operations in 16 countries over the last two decades considering socioeconomic, technical, climatic and end-use factors through the decomposing structural decomposition method.
 
@@ -60,9 +60,9 @@ My research interest includes building energy and building decarbonization. I ha
 [Python-LMDI: A Tool for Index Decomposition Analysis of Building Carbon Emissions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&citation_for_view=hvuvSLkAAAAJ:dfsIfKJdRG4C)
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*, Weiguang Cai
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)[**[PDF]**]()
+[[Project]](https://www.researchgate.net/publication/357876899_Python-LMDI_A_Tool_for_Index_Decomposition_Analysis_of_Building_Carbon_Emissions) [[HTML]](https://www.mdpi.com/2075-5309/12/1/83) [[PDF]](/Files/Buildings-2022-2.pdf)
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A new open-source tool, called PyLMDI, for calculating LMDI decomposition results was developed based on the Python programming language, which provided enough information for interested users to use the LMDI decomposition approach in the “black box” mode.
 
 </div>
 </div>
@@ -78,9 +78,9 @@ My research interest includes building energy and building decarbonization. I ha
 
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)[**[PDF]**]()
+[[Project]](https://www.researchgate.net/publication/357632297_Operational_Carbon_Change_in_Commercial_Buildings_under_the_Carbon_Neutral_Goal_A_LASSO-WOA_Approach?_sg%5B0%5D=lwhVXL_MzEJ13i-uuv7LE-nkVuCGk93p8APcQlT22XKFendsc8hrfW-inavFH0Yl_Fv_7QrTha1MfLPeo-WkPTHdKQ-NM7gpK7svQqhT.Qdu_nv_jS1XvOarh0sJv5gFKBOrmX-RaCAs4yGeBpMwEqemq2A6Q9RhSnFTqKlobTmmcbGIIGviY95dl_V8anA) [[HTML]](https://www.mdpi.com/2075-5309/12/1/54) [[PDF]](/Files/Buildings-2022-1.pdf)
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A novel LASSO model with WOA algorithm was developed to estimate the results of the carbon emissions model, thereby identifying the major driving forces of commercial building carbon emissions and analyzing the emission pathway to 2060. 
 
 </div>
 </div>
