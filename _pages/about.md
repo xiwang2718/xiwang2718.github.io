@@ -46,6 +46,8 @@ My research interest includes building energy and building decarbonization. I ha
 
 [**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)[**[PDF]**]()
 
+[[Project]](https://dx.doi.org/10.3390/s22093587) [[HTML]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
 - To seek the best practical path to decarbonize commercial building operations, this study assesses the decarbonization progress of commercial building operations in 16 countries over the last two decades considering socioeconomic, technical, climatic and end-use factors through the decomposing structural decomposition method.
 
 </div>
@@ -56,7 +58,6 @@ My research interest includes building energy and building decarbonization. I ha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2022</div><img src='images/paper2-Buildings2022-PyLMDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Python-LMDI: A Tool for Index Decomposition Analysis of Building Carbon Emissions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&citation_for_view=hvuvSLkAAAAJ:dfsIfKJdRG4C)
-
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*, Weiguang Cai
 
 [**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)[**[HTML]**](https://www.sciencedirect.com/science/article/abs/pii/S0306261922007383)[**[PDF]**]()
@@ -113,9 +114,10 @@ My research interest includes building energy and building decarbonization. I ha
 
 # 🎖 Honors and Awards
 - *2021.06* Outstanding Graduates of Sichuan Province (Top 1%)
+- 
 
 # 📖 Educations
-- *2021.09 - Now*, School of Management Science and Real Estate, Chongqing University, Chongqing China.
+- *2021.09 - Present*, School of Management Science and Real Estate, Chongqing University, Chongqing China.
 - *2017.09 - 2021.06*, School of mathematics and physics, Southwest University of Science and Technology, Mianyang China.
 
 <!--这些是注释文本，不会显示-->
