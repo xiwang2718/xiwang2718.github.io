@@ -42,6 +42,7 @@ My research interest includes building energy and building decarbonization. I ha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN 2022</div><img src='images/paper1-APEN2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)
+  
 **Xiwang Xiang**, Minda Ma*, Xin Ma, Liming Chen, Weiguang Cai, Wei Feng, Zhili Ma
 
 [[Project]](https://www.researchgate.net/publication/361203148_Historical_decarbonization_of_global_commercial_building_operations_in_the_21st_century) [[HTML]](https://www.sciencedirect.com/science/article/pii/S0306261922007383?via%3Dihub) [[PDF]](/Files/APEN-2022.pdf)
@@ -88,6 +89,7 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2022</div><img src='images/paper3-Buildings-LASSO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Operational carbon change in commercial buildings under the carbon neutral goal: a LASSO–WOA approach](https://www.mdpi.com/2075-5309/12/1/54)
+  
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*
 
 [[Project]](https://www.researchgate.net/publication/357632297_Operational_Carbon_Change_in_Commercial_Buildings_under_the_Carbon_Neutral_Goal_A_LASSO-WOA_Approach?_sg%5B0%5D=lwhVXL_MzEJ13i-uuv7LE-nkVuCGk93p8APcQlT22XKFendsc8hrfW-inavFH0Yl_Fv_7QrTha1MfLPeo-WkPTHdKQ-NM7gpK7svQqhT.Qdu_nv_jS1XvOarh0sJv5gFKBOrmX-RaCAs4yGeBpMwEqemq2A6Q9RhSnFTqKlobTmmcbGIIGviY95dl_V8anA) [[HTML]](https://www.mdpi.com/2075-5309/12/1/54) [[PDF]](/Files/Buildings-2022-1.pdf)
