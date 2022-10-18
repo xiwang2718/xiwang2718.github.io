@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a Postgraduate at Chongqing University, advised by Prof. Zhili Ma (马智利), and [Minda Ma (马敏达)](https://www.dess.tsinghua.edu.cn/info/1093/3126.htm) from [Tsinghua University <img src='./images/logo-THQ.png' style='width: 4em;'> ](https://www.tsinghua.edu.cn/), I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST closely. 
 
-My research interest includes building energy and building decarbonization. I have published 13 papers  <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>at the top international journal. Please feel free to contact me if you are interested in my research.
+My research interest includes building energy and building decarbonization. I have published 13 papers  <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  at the top international journal. Please feel free to contact me if you are interested in my research.
 
 
 
@@ -33,7 +33,7 @@ My research interest includes building energy and building decarbonization. I ha
   - [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC) *Science of The Total Environment*
   - [Carbon Mitigation in the Operation of Chinese Residential Buildings: An Empirical Analysis at the Provincial Scale](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:EUQCXRtRnyEC) *Buildings*
 - *2022.06*: &nbsp;🎉🎉 One paper about [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)  was accepted by *Applied Energy*
-- *2022.02*: We release a new open-source tool [Python-LMDI<img src='./images/PyLMDI_logo.png' style='width: 6em;'>](https://github.com/xiwang2718/PyLMDI)  [![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io) for index decomposition analysis of building carbon emissions. Welcome to STAR and FORK! 
+- *2022.02*: We release a new open-source tool [Python-LMDI<img src='./images/PyLMDI_logo.png' style='width: 6em;'>](https://github.com/xiwang2718/PyLMDI)  [![](https://img.shields.io/github/stars/xiwang2718/PyLMDI?style=social&label=Code+Stars)](https://github.com/xiwang2718/PyLMDI) for index decomposition analysis of building carbon emissions. Welcome to STAR and FORK! 
 
 # 📝 Publications 
 
@@ -107,8 +107,8 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 
 ## Other publications
 
-* [Research and application of novel Euler polynomial-driven grey model for short-term PM10 forecasting](https://www.emerald.com/insight/content/doi/10.1108/GS-02-2020-0023/full/html),  **Xiwang Xiang**, Xin Ma, Minda Ma, Wenqing Wu, Lang Yu, **Grey Systems: Theory and Application** 2021
-* [A novel hyperbolic time-delayed grey model with Grasshopper Optimization Algorithm and its applications](https://www.sciencedirect.com/science/article/pii/S2090447920301726), **Xiwang Xiang**, Xin Ma, Yizhu Fang, Wenqing Wu, Gaoxun Zhang, **Ain Shams Engineering Journal** 2021
+* [Research and application of novel Euler polynomial-driven grey model for short-term PM10 forecasting](https://www.emerald.com/insight/content/doi/10.1108/GS-02-2020-0023/full/html),  **Xiwang Xiang**, Xin Ma, Minda Ma, Wenqing Wu, Lang Yu, **Grey Systems: Theory and Application** **2021**
+* [A novel hyperbolic time-delayed grey model with Grasshopper Optimization Algorithm and its applications](https://www.sciencedirect.com/science/article/pii/S2090447920301726), **Xiwang Xiang**, Xin Ma, Yizhu Fang, Wenqing Wu, Gaoxun Zhang, **Ain Shams Engineering Journal** **2021**
 
 * [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC), Ran Yan, **Xiwang Xiang**, Weiguang Cai, Minda Ma, **Science of The Total Environment 2022**
 
