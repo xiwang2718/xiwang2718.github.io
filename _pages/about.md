@@ -53,7 +53,7 @@ My research interest includes building energy and building decarbonization. I ha
 </div>
 </div>
 
-## 
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='images/paper4-BAE2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -131,7 +131,6 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 
 # 🎖 Honors and Awards
 - *2021.06* Outstanding Graduates of Sichuan Province (Top 1%)
-- 
 
 # 📖 Educations
 - *2021.09 - Present*, School of Management Science and Real Estate, Chongqing University, Chongqing China.
