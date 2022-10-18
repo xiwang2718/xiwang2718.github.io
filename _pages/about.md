@@ -44,8 +44,6 @@ My research interest includes building energy and building decarbonization. I ha
 [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)
 **Xiwang Xiang**, Minda Ma*, Xin Ma, Liming Chen, Weiguang Cai, Wei Feng, Zhili Ma
 
-
-
 [[Project]](https://www.researchgate.net/publication/361203148_Historical_decarbonization_of_global_commercial_building_operations_in_the_21st_century) [[HTML]](https://www.sciencedirect.com/science/article/pii/S0306261922007383?via%3Dihub) [[PDF]](/Files/APEN-2022.pdf)
 
 - To seek the best practical path to decarbonize commercial building operations, this study assesses the decarbonization progress of commercial building operations in 16 countries over the last two decades considering socioeconomic, technical, climatic and end-use factors through the decomposing structural decomposition method.
@@ -61,8 +59,6 @@ My research interest includes building energy and building decarbonization. I ha
 
 Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 
-
-
 [[Project]](https://www.researchgate.net/publication/364309558_Operational_carbon_transition_in_the_megalopolises'_commercial_buildings) [[HTML]](https://www.sciencedirect.com/science/article/pii/S0360132322009350) [[PDF]](/Files/BAE-2022.pdf)
 
 - Megalopolises are important political and economic centers and offer the best opportunities for decarbonizing commercial building operations, this study assesses the operational decarbonization change of commercial buildings in Chinese megalopolises. The findings help inform building of sector pathways toward China's carbon peaking and neutral goals and develop global low-carbon cities.
@@ -75,7 +71,8 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2022</div><img src='images/paper2-Buildings2022-PyLMDI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Python-LMDI: A Tool for Index Decomposition Analysis of Building Carbon Emissions](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&citation_for_view=hvuvSLkAAAAJ:dfsIfKJdRG4C)
-**Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*, Weiguang Cai
+
+ **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*, Weiguang Cai
 
 [[Project]](https://www.researchgate.net/publication/357876899_Python-LMDI_A_Tool_for_Index_Decomposition_Analysis_of_Building_Carbon_Emissions) [[HTML]](https://www.mdpi.com/2075-5309/12/1/83) [[PDF]](/Files/Buildings-2022-2.pdf)
 
@@ -91,8 +88,6 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2022</div><img src='images/paper3-Buildings-LASSO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Operational carbon change in commercial buildings under the carbon neutral goal: a LASSO–WOA approach](https://www.mdpi.com/2075-5309/12/1/54)
-
-
 **Xiwang Xiang**, Xin Ma, Zhili Ma, Minda Ma*
 
 [[Project]](https://www.researchgate.net/publication/357632297_Operational_Carbon_Change_in_Commercial_Buildings_under_the_Carbon_Neutral_Goal_A_LASSO-WOA_Approach?_sg%5B0%5D=lwhVXL_MzEJ13i-uuv7LE-nkVuCGk93p8APcQlT22XKFendsc8hrfW-inavFH0Yl_Fv_7QrTha1MfLPeo-WkPTHdKQ-NM7gpK7svQqhT.Qdu_nv_jS1XvOarh0sJv5gFKBOrmX-RaCAs4yGeBpMwEqemq2A6Q9RhSnFTqKlobTmmcbGIIGviY95dl_V8anA) [[HTML]](https://www.mdpi.com/2075-5309/12/1/54) [[PDF]](/Files/Buildings-2022-1.pdf)
