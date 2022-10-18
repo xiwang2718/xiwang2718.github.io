@@ -26,12 +26,13 @@ My research interest includes building energy and building decarbonization. I ha
 
 
 # 🔥 News 
-- *2022.09*: &nbsp;🎉🎉 New website is launched!. 
+- *2022.10*: One paper about Operational carbon transition in the megalopolises’ commercial buildings  was accepted by *Building and Environment*
+- *2022.09*: &nbsp;🎉🎉 New website is launched!
 - 2022.08: 🎉🎉 Three paper was accpeted by *Resources, Conservation and Recycling*, *Science of The Total Environment* and *Buildings* respectively
   - [Potential to decarbonize the commercial building operation of the top two emitters by 2060](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:bFI3QPDXJZMC) *Resources, Conservation and Recycling*
   - [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC) *Science of The Total Environment*
   - [Carbon Mitigation in the Operation of Chinese Residential Buildings: An Empirical Analysis at the Provincial Scale](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:EUQCXRtRnyEC) *Buildings*
-- *2022.06*: &nbsp;🎉🎉 One paper about [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)  was accpeted by *Applied Energy*
+- *2022.06*: &nbsp;🎉🎉 One paper about [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)  was accepted by *Applied Energy*
 - *2022.02*: We release a new open-source tool [Python-LMDI<img src='./images/PyLMDI_logo.png' style='width: 6em;'>](https://github.com/xiwang2718/PyLMDI) \|![](https://img.shields.io/github/stars/xiwang2718/PyLMDI?style=social&label=Code+Stars) for index decomposition analysis of building carbon emissions. Welcome to STAR and FORK! 
 
 # 📝 Publications 
@@ -41,7 +42,6 @@ My research interest includes building energy and building decarbonization. I ha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN 2022</div><img src='images/paper1-APEN2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)
-
 **Xiwang Xiang**, Minda Ma*, Xin Ma, Liming Chen, Weiguang Cai, Wei Feng, Zhili Ma
 
 
@@ -49,6 +49,23 @@ My research interest includes building energy and building decarbonization. I ha
 [[Project]](https://www.researchgate.net/publication/361203148_Historical_decarbonization_of_global_commercial_building_operations_in_the_21st_century) [[HTML]](https://www.sciencedirect.com/science/article/pii/S0306261922007383?via%3Dihub) [[PDF]](/Files/APEN-2022.pdf)
 
 - To seek the best practical path to decarbonize commercial building operations, this study assesses the decarbonization progress of commercial building operations in 16 countries over the last two decades considering socioeconomic, technical, climatic and end-use factors through the decomposing structural decomposition method.
+
+</div>
+</div>
+
+## 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='images/paper4-BAE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Operational carbon transition in the megalopolises’ commercial buildings](https://scholar.google.com/citations?view_op=view_citation&hl=EN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:abG-DnoFyZgC)
+
+Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
+
+
+
+[[Project]](https://www.researchgate.net/publication/364309558_Operational_carbon_transition_in_the_megalopolises'_commercial_buildings) [[HTML]](https://www.sciencedirect.com/science/article/pii/S0360132322009350) [[PDF]](/Files/BAE-2022.pdf)
+
+- Megalopolises are important political and economic centers and offer the best opportunities for decarbonizing commercial building operations, this study assesses the operational decarbonization change of commercial buildings in Chinese megalopolises. The findings help inform building of sector pathways toward China's carbon peaking and neutral goals and develop global low-carbon cities.
 
 </div>
 </div>
