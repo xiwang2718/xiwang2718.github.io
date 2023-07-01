@@ -128,6 +128,7 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 
 # 🎖 Honors and Awards
 - *2021.06* Outstanding Graduates of Sichuan Province (Top 1%)
+- 2023.06  
 
 # 📖 Educations
 - *2021.09 - Present*, School of Management Science and Real Estate, Chongqing University, Chongqing China.
