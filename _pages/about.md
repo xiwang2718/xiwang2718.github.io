@@ -138,9 +138,4 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 
 
 
-```
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5bhpcu9diem&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;crh1=ffffff&amp;sx=0" async="async"></script>
-```
-
-
-
