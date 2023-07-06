@@ -46,7 +46,7 @@ My research interest includes building energy and building decarbonization. I ha
 
 **Xiwang Xiang**, Nan Zhou, Minda Ma*, Wei Feng\*, Ran Yan
 
-[[Project]](https://www.researchgate.net/publication/361203148_Historical_decarbonization_of_global_commercial_building_operations_in_the_21st_century) [[HTML]](https://www.sciencedirect.com/science/article/pii/S2666792423000240#abs0001) [[PDF]](/Files/ADAPEN-2023.pdf)
+[[Project]](https://www.researchgate.net/publication/371275752_Global_transition_of_operational_carbon_in_residential_buildings_since_the_millennium) [[HTML]](https://www.sciencedirect.com/science/article/pii/S2666792423000240#abs0001) [[PDF]](/Files/ADAPEN-2023.pdf)
 
 - To accelerate the pace of decarbonization of residential buildings, this study is the first to present a bottom-up assessment framework integrated with the decomposing structural decomposition method to evaluate the emission patterns and decarbonization process of residential building operations in 56 countries spanning 12 regions worldwide from 2000 to 2020. 
 
