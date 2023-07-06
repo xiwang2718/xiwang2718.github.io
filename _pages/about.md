@@ -21,14 +21,15 @@ redirect_from:
 
 I am currently a Postgraduate at Chongqing University, advised by Prof. Zhili Ma (马智利), and [Minda Ma (马敏达)](https://buildings.lbl.gov/people/minda-ma) from [Lawrence Berkeley National Laboratory(LBNL) <img src='./images/logo-LBNL.png' style='width: 4em;'> ](https://www.lbl.gov/), I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST closely. 
 
-My research interest includes building energy and building decarbonization. I have published 13 papers  <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  at the top international journal. Please feel free to contact me if you are interested in my research.
+My research interest includes building energy and building decarbonization. I have published 17 papers  <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  at the top international journal. Please feel free to contact me if you are interested in my research.
 
 
 
 # 🔥 News 
+- *2023.06*: 🎉🎉 One paper about [Global transition of operational carbon in residential buildings since the millennium](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:1sJd4Hv_s6UC)  was accepted by *[Advances in Applied Energy](https://www.sciencedirect.com/journal/advances-in-applied-energy)*
 - *2022.10*: One paper about Operational carbon transition in the megalopolises’ commercial buildings  was accepted by *Building and Environment*
 - *2022.09*: &nbsp;🎉🎉 New website is launched!
-- 2022.08: 🎉🎉 Three paper was accpeted by *Resources, Conservation and Recycling*, *Science of The Total Environment* and *Buildings* respectively
+- 2022.08: 🎉🎉 Three paper was accepted by *Resources, Conservation and Recycling*, *Science of The Total Environment* and *Buildings* respectively
   - [Potential to decarbonize the commercial building operation of the top two emitters by 2060](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:bFI3QPDXJZMC) *Resources, Conservation and Recycling*
   - [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC) *Science of The Total Environment*
   - [Carbon Mitigation in the Operation of Chinese Residential Buildings: An Empirical Analysis at the Provincial Scale](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:EUQCXRtRnyEC) *Buildings*
@@ -38,6 +39,25 @@ My research interest includes building energy and building decarbonization. I ha
 # 📝 Publications 
 
 ## Selected publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADAPEN 2022</div><img src='images/paper1-ADAPEN2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Global transition of operational carbon in residential buildings since the millennium](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:1sJd4Hv_s6UC)
+
+**Xiwang Xiang**, Nan Zhou, Minda Ma*, Wei Feng\*, Ran Yan
+
+[[Project]](https://www.researchgate.net/publication/361203148_Historical_decarbonization_of_global_commercial_building_operations_in_the_21st_century) [[HTML]](https://www.sciencedirect.com/science/article/pii/S2666792423000240#abs0001) [[PDF]](/Files/ADAPEN-2023.pdf)
+
+- To accelerate the pace of decarbonization of residential buildings, this study is the first to present a bottom-up assessment framework integrated with the decomposing structural decomposition method to evaluate the emission patterns and decarbonization process of residential building operations in 56 countries spanning 12 regions worldwide from 2000 to 2020. 
+
+</div>
+</div>
+
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN 2022</div><img src='images/paper1-APEN2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -108,7 +128,14 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 ## Other publications
 
 * [Research and application of novel Euler polynomial-driven grey model for short-term PM10 forecasting](https://www.emerald.com/insight/content/doi/10.1108/GS-02-2020-0023/full/html),  **Xiwang Xiang**, Xin Ma, Minda Ma, Wenqing Wu, Lang Yu, **Grey Systems: Theory and Application** **2021**
+
 * [A novel hyperbolic time-delayed grey model with Grasshopper Optimization Algorithm and its applications](https://www.sciencedirect.com/science/article/pii/S2090447920301726), **Xiwang Xiang**, Xin Ma, Yizhu Fang, Wenqing Wu, Gaoxun Zhang, **Ain Shams Engineering Journal** **2021**
+
+* [Heterogeneity or illusion? Track the carbon Kuznets curve of global residential building operations](https://www.sciencedirect.com/science/article/pii/S030626192300805X), Ran Yan, Minxia Chen, **Xiwang Xiang**, Wei Feng, Minda Ma, **Applied Energy 2023**
+
+* [Pathway for decarbonizing residential building operations in the US and China beyond the mid-century](https://www.sciencedirect.com/science/article/pii/S0306261923005287), Shufan Zhang, Nan Zhou, Wei Feng, Minda Ma, **Xiwang Xiang**, Kairui You, **Applied Energy 2023**
+
+* [Decarbonizing or illusion? How carbon emissions of commercial building operations change worldwide](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:CHSYGLWDkRkC),  Liming Chen, Minda Ma, Xiwang Xiang, **Sustainable Cities and Society 2023**
 
 * [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC), Ran Yan, **Xiwang Xiang**, Weiguang Cai, Minda Ma, **Science of The Total Environment 2022**
 
@@ -128,7 +155,7 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 
 # 🎖 Honors and Awards
 - *2021.06* Outstanding Graduates of Sichuan Province (Top 1%)
-- 2023.06  
+- 2023.06  First Prize Award, 18th National Challenge Cup 
 
 # 📖 Educations
 - *2021.09 - Present*, School of Management Science and Real Estate, Chongqing University, Chongqing China.
