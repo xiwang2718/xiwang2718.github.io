@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a Postgraduate at Chongqing University, advised by Prof. Zhili Ma (马智利), and [Minda Ma (马敏达)](https://buildings.lbl.gov/people/minda-ma) from [Lawrence Berkeley National Laboratory(LBNL) <img src='./images/logo-LBNL.png' style='width: 4em;'> ](https://www.lbl.gov/), I also collaborate with [Xin Ma (马新)](https://maxin.website/) from SWUST closely. 
 
-My research interest includes building energy and building decarbonization. I have published 10+ papers  <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  at the top international journal such as Advances in Applied Energy, Applied Energy, Building \& Environment. Please feel free to contact me if you are interested in my research.
+My research interest includes building energy and building decarbonization. I have published 10+ papers  <a href='https://scholar.google.com/citations?user=hvuvSLkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  at the top international journal such as Advances in Applied Energy, Applied Energy, Building and Environment. Please feel free to contact me if you are interested in my research.
 
 
 
