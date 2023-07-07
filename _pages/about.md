@@ -40,9 +40,10 @@ My research interest includes building energy and building decarbonization. I ha
 
 ## Selected publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADAPEN 2023</div><img src='images/paper1-ADAPEN2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advances in applied energy 2023</div><img src='images/paper1-ADAPEN2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Global transition of operational carbon in residential buildings since the millennium](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:1sJd4Hv_s6UC)
+
 
 
 **Xiwang Xiang**, Nan Zhou, Minda Ma*, Wei Feng\*, Ran Yan
@@ -60,7 +61,7 @@ My research interest includes building energy and building decarbonization. I ha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN 2022</div><img src='images/paper1-APEN2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy 2022</div><img src='images/paper1-APEN2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)
 
@@ -75,9 +76,10 @@ My research interest includes building energy and building decarbonization. I ha
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2022</div><img src='images/paper4-BAE2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment 2022</div><img src='images/paper4-BAE2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Operational carbon transition in the megalopolises’ commercial buildings](https://scholar.google.com/citations?view_op=view_citation&hl=EN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:abG-DnoFyZgC)
+
 
 Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 
