@@ -40,7 +40,7 @@ My research interest includes building energy and building decarbonization. I ha
 
 ## Selected publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advances in applied energy 2023</div><img src='images/paper1-ADAPEN2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advances in Applied Energy 2023</div><img src='images/paper1-ADAPEN2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Global transition of operational carbon in residential buildings since the millennium](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:1sJd4Hv_s6UC)
 
@@ -121,10 +121,6 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
 
 </div>
 </div>
-
-
-
-
 
 
 
