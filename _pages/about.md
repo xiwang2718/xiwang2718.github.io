@@ -27,13 +27,13 @@ My research interest includes building energy and building decarbonization. I ha
 
 # 🔥 News 
 - *2023.06*: 🎉🎉 One paper about [Global transition of operational carbon in residential buildings since the millennium](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:1sJd4Hv_s6UC)  was accepted by *[Advances in Applied Energy](https://www.sciencedirect.com/journal/advances-in-applied-energy)*
-- *2022.10*: One paper about Operational carbon transition in the megalopolises’ commercial buildings  was accepted by *Building and Environment*
+- *2022.10*: One paper about [Operational carbon transition in the megalopolises’ commercial buildings](https://www.sciencedirect.com/science/article/pii/S0360132322009350)  was accepted by *[Building and Environment](https://www.sciencedirect.com/journal/building-and-environment)*.
 - *2022.09*: &nbsp;🎉🎉 New website is launched!
-- 2022.08: 🎉🎉 Three paper was accepted by *Resources, Conservation and Recycling*, *Science of The Total Environment* and *Buildings* respectively
-  - [Potential to decarbonize the commercial building operation of the top two emitters by 2060](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:bFI3QPDXJZMC) *Resources, Conservation and Recycling*
-  - [Decarbonizing residential buildings in the developing world: Historical cases from China](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:_xSYboBqXhAC) *Science of The Total Environment*
-  - [Carbon Mitigation in the Operation of Chinese Residential Buildings: An Empirical Analysis at the Provincial Scale](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:EUQCXRtRnyEC) *Buildings*
-- *2022.06*: &nbsp;🎉🎉 One paper about [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)  was accepted by *Applied Energy*
+- 2022.08: 🎉🎉 Three paper was accepted by *Resources, Conservation and Recycling*, *Science of The Total Environment* and *Buildings* respectively.
+  - Potential to decarbonize the commercial building operation of the top two emitters by 2060 *Resources, Conservation and Recycling*
+  - Decarbonizing residential buildings in the developing world: Historical cases from China *Science of The Total Environment*
+  - Carbon Mitigation in the Operation of Chinese Residential Buildings: An Empirical Analysis at the Provincial Scale *Buildings*
+- *2022.06*: &nbsp;🎉🎉 One paper about [Historical decarbonization of global commercial building operations in the 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hvuvSLkAAAAJ&sortby=pubdate&citation_for_view=hvuvSLkAAAAJ:f2IySw72cVMC)  was accepted by *[Applied Energy](https://www.sciencedirect.com/journal/applied-energy)*.
 - *2022.02*: We release a new open-source tool [Python-LMDI<img src='./images/PyLMDI_logo.png' style='width: 6em;'>](https://github.com/xiwang2718/PyLMDI)  [![](https://img.shields.io/github/stars/xiwang2718/PyLMDI?style=social&label=Code+Stars)](https://github.com/xiwang2718/PyLMDI) for index decomposition analysis of building carbon emissions. Welcome to STAR and FORK! 
 
 # 📝 Publications 
