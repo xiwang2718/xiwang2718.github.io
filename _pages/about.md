@@ -153,7 +153,7 @@ Minda Ma, Wei Feng, Jingwen Huo, **Xiwang Xiang***
   
 
 # 🎖 Honors and Awards
-- *2023.06* First Prize Award, the 18th "Challenge Cup" Competition in Chongqing
+- *2023.06* First Prize Award, the 18th "Challenge Cup" Competition in Chongqing  (Top 1%)
 - *2021.06* Outstanding Graduates of Sichuan Province (Top 1%)
 
 # 📖 Educations
